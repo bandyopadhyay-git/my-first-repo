@@ -1,31 +1,23 @@
-# This is a large heading 
+# Sreejan Bandyopadhyay
 
-## This is a smaller heading
+### Geography 
 
-And as **imagination** bodies forth, 
-The forms of things *unknown*, the poet's pen, 
-Turns them to shapes and gives airy nothing, 
-The local *habitation* and a **name**. 
+I live in London, England in the United Kingdom (who knows how long it'll 
+stay united)
 
-- This is
-- an unordered
-- list 
 
-1. This is
-2. an ordered 
-3. list
+### Games 
+Three of my favourite games are: 
+- **Breath of the Wild**
+- **Skyrim**
+- **The Witcher 3**
 
-Here is `some code` in the middle of a sentence.
+### Food 
+I love cooking the following
+ 
+1. Biryani
+2. South Indian Chicken Curry 
+3. Salty pancakes 
 
-```
-This is 
-a block 
-of code
-``` 
-
-Here is how you make [a link](https://www.wikipedia.org/)
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
-
+### Contact 
+The best way to contact me is through email <sreejan0001@gmail.com> 
